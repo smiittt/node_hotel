@@ -1,3 +1,4 @@
 # ignore node module filder
 node_modules/
+.ENV
 
